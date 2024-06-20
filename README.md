@@ -1,5 +1,5 @@
 # GENERATIVE-ADVERSARIAL-NETWORK
-Following are the result from GAN 2 different version has been implementation so far
+Following are the result from GAN ,two different versions has been implementation so far
 
 
 Models has been trained on [DATASET](https://www.kaggle.com/datasets/karnikakapoor/art-portraits)
