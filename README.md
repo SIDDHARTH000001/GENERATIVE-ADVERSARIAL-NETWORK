@@ -1,5 +1,5 @@
 # GENERATIVE-ADVERSARIAL-NETWORK
-Following are the result from GAN ,two different versions has been implementation so far
+Following are the result from GAN ,THREE different versions has been implementation so far
 
 
 Models has been trained on [DATASET](https://www.kaggle.com/datasets/karnikakapoor/art-portraits)
@@ -10,3 +10,6 @@ Models has been trained on [DATASET](https://www.kaggle.com/datasets/karnikakapo
 ![](DCGAN_OUTPUT.png)
 
 2.Wasserstein Generative Adversarial Networks : WGANs
+
+
+3. PROGRESSIVE GAN
