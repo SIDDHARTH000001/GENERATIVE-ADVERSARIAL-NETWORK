@@ -12,4 +12,6 @@ Models has been trained on [DATASET](https://www.kaggle.com/datasets/karnikakapo
 2.Wasserstein Generative Adversarial Networks : WGANs
 
 
-3. PROGRESSIVE GAN
+3.PROGRESSIVE GAN
+![image](https://github.com/user-attachments/assets/b7884117-efe4-4ea6-b5c9-4a994f913f6d)
+
