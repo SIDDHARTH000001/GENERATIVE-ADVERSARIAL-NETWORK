@@ -13,5 +13,5 @@ Models has been trained on [DATASET](https://www.kaggle.com/datasets/karnikakapo
 
 
 3.PROGRESSIVE GAN
-![image](https://github.com/user-attachments/assets/b7884117-efe4-4ea6-b5c9-4a994f913f6d)
+![image](PROGAN.png)
 
