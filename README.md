@@ -50,11 +50,9 @@ To generate images using pretrained models:
 
 
 - **Progressive GAN:**
-  ```bash
-  python examples/generate_prog_gan.py
+
   
 ![image](PROGAN.png)
-  ```
 
 ## Future Work
 - Extend support to additional GAN architectures, such as StyleGAN.
